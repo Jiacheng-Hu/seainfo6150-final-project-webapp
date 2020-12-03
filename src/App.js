@@ -1,5 +1,5 @@
 import React from "react";
-import { Switch, Route, Link } from "react-router-dom";
+import { Switch, Route, Link, useRouteMatch } from "react-router-dom";
 
 import Home from "./Home/Home.jsx";
 import Foo from "./Foo/Foo.jsx";
@@ -17,6 +17,7 @@ const externalContent = {
 };
 
 function App() {
+  let { url } = useRouteMatch();
   return (
     <>
       <header>
@@ -24,16 +25,16 @@ function App() {
           <ul>
             {/* these links should show you how to connect up a link to a specific route */}
             <li>
-              <Link to="/">Home</Link>
+              <Link to={`${url}/`}>Home</Link>
             </li>
             <li>
-              <Link to="/foo">Foo</Link>
+              <Link to={`${url}/foo`}>Foo</Link>
             </li>
             <li>
-              <Link to="/bar/hats/sombrero">Bar</Link>
+              <Link to={`${url}/bar/hats/sombrero`}>Bar</Link>
             </li>
             <li>
-              <Link to="/baz">Baz</Link>
+              <Link to={`${url}/baz`}>Baz</Link>
             </li>
           </ul>
         </nav>
@@ -41,11 +42,11 @@ function App() {
       {/* A <Switch> looks through its children <Route>s and
             renders the first one that matches the current URL. */}
       <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/foo" exact component={Foo} />
+        <Route path={`${url}/`} exact component={Home} />
+        <Route path={`${url}/foo`} exact component={Foo} />
         {/* passing parameters via a route path */}
         <Route
-          path="/bar/:categoryId/:productId"
+          path={`${url}/bar/:categoryId/:productId`}
           exact
           render={({ match }) => (
             // getting the parameters from the url and passing
@@ -57,7 +58,7 @@ function App() {
           )}
         />
         <Route
-          path="/baz"
+          path={`${url}/baz`}
           exact
           render={() => <Baz content={externalContent} />}
         />
