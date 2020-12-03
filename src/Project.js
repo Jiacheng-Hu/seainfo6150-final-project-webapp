@@ -110,7 +110,7 @@ const Project = props => {
                 <Route path="/" exact>
                     <HomePage/>
                 </Route>
-                <Route path="/news/:slug?"  exact render={() => (<News news={fetchedNewsData}/>)}></Route>
+                <Route path="/news/:slug?"   render={() => (<News news={fetchedNewsData}/>)}></Route>
                 <Route path="/events/:slug?" exact render={() => (<Events events={fetchedEventsData}/>)}></Route>
                 <Route path="/inbox/:slug?" exact render={() => (<Inbox inboxes={fetchedInboxData}/>)}></Route>
                 <Route path="/course/:slug?" exact render={() => (<Course courses={fetchedCourseData}/>)}></Route>
