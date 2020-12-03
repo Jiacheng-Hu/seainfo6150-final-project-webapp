@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import App from "./App";
-import LoginApp from "./Login/LoginApp";
+// import LoginApp from "./Login/LoginApp";
 import Project from "./Project"
 import ErrorPage from "./ErrorPage/ErrorPage"
 
@@ -14,11 +14,11 @@ ReactDOM.render(
         <App/>
       </Route>
       <Route path="/" exact>
-        <LoginApp/>
-      </Route>
-      <Route path="/homepage">
         <Project/>
       </Route>
+      {/* <Route path="/homepage" exact>
+        <Project/>
+      </Route> */}
       <Route>
         <ErrorPage/>
       </Route>
