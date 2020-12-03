@@ -12,7 +12,7 @@ import ContactUs from "./Contact/ContactUs.jsx";
 import ErrorPage from "./ErrorPage/ErrorPage.jsx";
 
 const Project = props => {
-    // let {url} = useRouteMatch();
+    let {url} = useRouteMatch();
 
     const[fetchedNewsData, setFetchedNewsData] = useState({});
     const[fetchedEventsData, setFetchedEventsData] = useState({});
@@ -84,46 +84,46 @@ const Project = props => {
                 <nav>
                     <ul>
                         <li>
-                            <Link to="/news">News</Link>
+                            <Link to={`${url}/news`}>News</Link>
                         </li>
                         <li>
-                            <Link to="/events">Events</Link>
+                            <Link to={`${url}/events`}>Events</Link>
                         </li>
                         <li>
-                            <Link to="/inbox">Inbox</Link>
+                            <Link to={`${url}/inbox`}>Inbox</Link>
                         </li>
                         <li>
-                            <Link to="/course">Course Info</Link>
+                            <Link to={`${url}/course`}>Course Info</Link>
                         </li>
                         <li>
-                            <Link to="/grade">Grade</Link>
+                            <Link to={`${url}/grade`}>Grade</Link>
                         </li>
                         <li>
-                            <Link to="/about">About Us</Link>
+                            <Link to={`${url}/about`}>About Us</Link>
                         </li>
                         <li>
-                            <Link to="/contact">Contact</Link>
+                            <Link to={`${url}/contact`}>Contact</Link>
                         </li>
                     </ul>
                 </nav>
             </header>
             <Switch>
-                <Route path="/" exact>
+                {/* <Route path={`${url}/`} exact>
                     <HomePage/>
-                </Route>
-                <Route path={"/news/:slug?"}  exact render={() => (<News news={fetchedNewsData}/>)}></Route>
-                <Route path={"/events/:slug?"} exact render={() => (<Events events={fetchedEventsData}/>)}></Route>
-                <Route path={"/inbox/:slug?"} exact render={() => (<Inbox inboxes={fetchedInboxData}/>)}></Route>
-                <Route path={"/course/:slug?"} exact render={() => (<Course courses={fetchedCourseData}/>)}></Route>
-                <Route path={"/grade"} exact>
+                </Route> */}
+                <Route path={`${url}/news/:slug?`}  exact render={() => (<News news={fetchedNewsData}/>)}></Route>
+                <Route path={`${url}/events/:slug?`} exact render={() => (<Events events={fetchedEventsData}/>)}></Route>
+                <Route path={`${url}/inbox/:slug?`} exact render={() => (<Inbox inboxes={fetchedInboxData}/>)}></Route>
+                <Route path={`${url}/course/:slug?`} exact render={() => (<Course courses={fetchedCourseData}/>)}></Route>
+                <Route path={`${url}/grade`} exact>
                     {isEmpty(fetchedGradeData) ? null : (
                         <Grade grade = {Object.values(fetchedGradeData)}/>
                     )}
                 </Route>
-                <Route path={"/about"} exact>
+                <Route path={`${url}/about`} exact>
                     <AboutUs/>
                 </Route>
-                <Route path={"/contact"} exact>
+                <Route path={`${url}/contact`} exact>
                     <ContactUs/>
                 </Route>
                 <Route>
