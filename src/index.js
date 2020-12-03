@@ -2,23 +2,23 @@ import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import App from "./App";
-import LoginApp from "./Login/LoginApp";
-import Project from "./Project"
+// import LoginApp from "./Login/LoginApp";
+// import Project from "./Project"
 // import ErrorPage from "./ErrorPage/ErrorPage"
 
 ReactDOM.render(
   
   <Router basename={/github.io/.test(window.location) ? "/seainfo6150-final-project-webapp" : ""}>
     <Switch>
-      {/* <Route path="/">
+      <Route path="/">
         <App/>
-      </Route> */}
+      </Route>
       {/* <Route path="/" exact>
         <LoginApp/>
       </Route> */}
-      <Route path="/">
+      {/* <Route path="/">
         <Project/>
-      </Route>
+      </Route> */}
       {/* <Route>
         <ErrorPage/>
       </Route> */}

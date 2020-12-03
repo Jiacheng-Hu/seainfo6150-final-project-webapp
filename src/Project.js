@@ -23,7 +23,7 @@ const Project = props => {
 
     useEffect(() => {
         const fetchNewsData = async () => {
-            const response = await fetch("http://demo2247279.mockable.io/news");
+            const response = await fetch("https://demo2247279.mockable.io/news");
             const responseJson = await response.json();
             setFetchedNewsData(responseJson);
         };
@@ -35,7 +35,7 @@ const Project = props => {
     
     useEffect(() => {
         const fetchEventsData = async () => {
-            const response = await fetch("http://demo2247279.mockable.io/events");
+            const response = await fetch("https://demo2247279.mockable.io/events");
             const responseJson = await response.json();
             setFetchedEventsData(responseJson);
         };
@@ -46,7 +46,7 @@ const Project = props => {
 
     useEffect(() => {
         const fetchInboxData = async () => {
-            const response = await fetch("http://demo2247279.mockable.io/inbox");
+            const response = await fetch("https://demo2247279.mockable.io/inbox");
             const responseJson = await response.json();
             setFetchedInboxData(responseJson);
         };
@@ -57,7 +57,7 @@ const Project = props => {
 
     useEffect(() => {
         const fetchCourseData = async () => {
-            const response = await fetch("http://demo2247279.mockable.io/course");
+            const response = await fetch("https://demo2247279.mockable.io/course");
             const responseJson = await response.json();
             setFetchedCourseData(responseJson);
         };
@@ -68,7 +68,7 @@ const Project = props => {
 
     useEffect(() => {
         const fetchGradeData = async () => {
-            const response = await fetch("http://demo2247279.mockable.io/grade");
+            const response = await fetch("https://demo2247279.mockable.io/grade");
             const responseJson = await response.json();
             setFetchedGradeData(responseJson);
         };
@@ -108,9 +108,9 @@ const Project = props => {
                 </nav>
             </header>
             <Switch>
-                {/* <Route path={`${url}/`} exact>
+                <Route path={`${url}/`} exact>
                     <HomePage/>
-                </Route> */}
+                </Route>
                 <Route path={`${url}/news/:slug?`}  exact render={() => (<News news={fetchedNewsData}/>)}></Route>
                 <Route path={`${url}/events/:slug?`} exact render={() => (<Events events={fetchedEventsData}/>)}></Route>
                 <Route path={`${url}/inbox/:slug?`} exact render={() => (<Inbox inboxes={fetchedInboxData}/>)}></Route>
