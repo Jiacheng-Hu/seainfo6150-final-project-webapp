@@ -10,15 +10,15 @@ ReactDOM.render(
   
   <Router basename={/github.io/.test(window.location) ? "/seainfo6150-final-project-webapp" : ""}>
     <Switch>
-      <Route path="/demo" exact>
+      <Route path="/">
         <App/>
       </Route>
       {/* <Route path="/" exact>
         <LoginApp/>
       </Route> */}
-      <Route path="/">
+      {/* <Route path="/">
         <Project/>
-      </Route>
+      </Route> */}
       {/* <Route>
         <ErrorPage/>
       </Route> */}
