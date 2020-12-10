@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inbox4 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        Important Updates on the Student Email Transition
+        <br />
+         
+        <small>
+          send by 
+          Office 365 Support
+        </small>
+      </h1>
+      <time
+        datetime="2020-05-13T23:23:00.000Z"
+      />
+    </header>
+    <div>
+      <div>
+        <p>
+          Dear students,
+        </p>
+        <p>
+          As was announced in the fall, all student email accounts are transitioning from husky.neu.edu to northeastern.edu and migrating to Microsoft Office 365. Nearly 6,000 students opted-in to be among the first to migrate earlier this year, transferring their Google HuskyMail data and making the transition to O365. At the end of this week, all student email accounts will have completed the data migration to the new accounts in O365.
+        </p>
+        <p>
+          If you have not already transitioned to using your new mailbox, now is the time to do so. To access your new email account, use your northeastern.edu email address, [myNortheastern username]@northeastern.edu, and your myNortheastern password to log in to your mailbox at outlook.office365.com.
+        </p>
+        <p>
+          Your husky.neu.edu emails are setup to forward to your O365 account, and will do so indefinitely, even after your HuskyMail account in Google is retired later this year. Until then, you continue to have access to your HuskyMail account in Google, and your husky.neu.edu email will continue to be used in most university systems and sites, including Canvas and Blackboard. You do not need to update your email address in university systems.
+        </p>
+        <p>
+          The other Google tools students commonly use—including Google Docs and Drive—aren’t going anywhere. While Google mail and calendar will retire later in 2020, the rest of the Google Suite services at Northeastern will remain. Continue using husky.neu.edu addresses to collaborate in G Suite.
+        </p>
+        <p>
+          You will receive more information to help you prepare closer to when HuskyMail is retired. For more information about O365 and the student email transition, visit Northeastern’s O365 website, or contact the IT Service Desk at 617.373.HELP [4357].
+        </p>
+        <p>
+          Sincerely,
+        </p>
+        <p>
+          The O365 student email transition team
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

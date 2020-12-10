@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course5 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="panel panel-info course-main"
+    >
+      <div
+        class="panel-heading"
+      >
+        Detail
+      </div>
+      <div
+        class="panel-body"
+      >
+        <div
+          class="labels"
+        >
+          Course Name: 
+          <span>
+            Data management and Database Design
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          CRN: 
+          <span>
+            32523
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Subject: 
+          <span>
+            Information Systems Program
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Credit Hour: 
+          <span>
+            4
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Associated Term: 
+          <span>
+            Spring 2021 Semester
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Lecturer: 
+          <span>
+            Wang, Wuping
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Schedule: 
+          <span>
+            Tuesday, 06:30 PM - 09:30 PM, 01/19/2021 - 05/01/2021
+          </span>
+        </div>
+        <div>
+          <p>
+            Studies design of information systems from a data perspective for engineering and business applications; data modeling, including entity-relationship (E-R) and object approaches; user-centric information requirements and data sharing; fundamental concepts of database management systems (DBMS) and their applications; alternative data models, with emphasis on relational design; SQL; data normalization; data-driven application design for personal computer, server-based, enterprisewide, and Internet databases; and distributed data applications.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

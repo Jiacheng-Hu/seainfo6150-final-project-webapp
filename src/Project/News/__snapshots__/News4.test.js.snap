@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News4 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        The psychology behind ‘revenge bedtime procrastination’
+        <br />
+         
+        <small>
+          by 
+          Lu-Hai Liang
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-26T10:25:45.000Z"
+      />
+    </header>
+    <div
+      class="news"
+    >
+      <img
+        class="news-image-item"
+        src="https://ychef.files.bbci.co.uk/1600x900/p08zf427.webp"
+      />
+      <div>
+        <p>
+          Emma Rao spent almost three years on China’s notorious ‘996 schedule’: working from nine in the morning to nine in the evening, six days a week. Rao, who is originally from Nanjing, moved to financial hub Shanghai about five years ago to work for a multinational pharmaceutical company. The job quickly took over her life.
+        </p>
+        <p>
+          “I was almost depressed,” she says. “I was deprived of all my personal life.” After her shift, which sometimes included overtime, she had a small window to eat, shower and go to bed – but she sacrificed sleep to eke out some personal time. Often, Rao would stay up surfing the internet, reading the news and watching online videos until well after midnight.
+        </p>
+        <p>
+          Rao was doing what the Chinese have called ‘bàofùxìng áoyè’ – or ‘revenge bedtime procrastination’. The phrase, which could also be translated as ‘retaliatory staying up late’, spread rapidly on Twitter in June after a post by journalist Daphne K Lee. She described the phenomenon as when “people who don’t have much control over their daytime life refuse to sleep early in order to regain some sense of freedom during late-night hours”.
+        </p>
+        <p>
+          Her post clearly struck a chord. In a reply ‘liked’ more than 4,500 times, Twitter user Kenneth Kwok tweeted: “Typical 8 to 8 in office, [by the time I] arrive home after dinner and shower it’s 10 p.m., probably won’t just go to sleep and repeat the same routine. A few hours of ‘own time’ is necessary to survive.”
+        </p>
+        <p>
+          It’s not clear exactly where this term came from. The earliest mention this reporter found was in a blog post dated November 2018, although its origins likely predate this. The post’s author – a man from Guangdong province – wrote that during the workday he “belonged to someone else,” and that he could only “find himself” when he got home and could lie down. This revenge bedtime procrastination was sad, he wrote, because his health suffered, but it was also “great” because he got a bit of freedom.
+        </p>
+        <p>
+          The phrase might have been popularised in China, but the phenomenon it describes is likely widespread, with over-stretched workers all over the world putting off bedtime to claim some precious personal time – even though they know it’s not good for them.
+        </p>
+        <p>
+          Experts have long warned that insufficient sleep is an unheeded global public-health epidemic. The 2019 Phillips Global Sleep Survey, which received more than 11,000 responses from 12 countries, showed that 62% of adults worldwide feel they don’t get enough sleep, averaging 6.8 hours on a weeknight compared to the recommended amount of eight hours. People cited various reasons for this shortfall, including stress and their sleeping environment, but 37% blamed their hectic work or school schedule.
+        </p>
+        <p>
+          In China, a national survey in 2018 showed that 60% of people born after 1990 were not getting enough sleep, and that those living in the biggest cities suffered the most. The tech companies who created 996 culture tend to be based in big cities, and their work practices have influenced other sectors. A recent report by state broadcaster CCTV and the National Bureau of Statistics said the average Chinese employee only had 2.42 hours per day when they were not at work or asleep, down by 25 minutes from the previous year.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

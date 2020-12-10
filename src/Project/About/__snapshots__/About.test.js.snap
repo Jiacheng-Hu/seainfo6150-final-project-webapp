@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About tests renders correctly 1`] = `
+<div>
+  <section
+    class="container"
+  >
+    <img
+      alt="hero"
+      class=" img-responsive"
+      src="banner3.jpg"
+    />
+    <div
+      class="about-content text-left"
+    >
+      <h1
+        class="about-title"
+      >
+        Experience is at the core of all we do
+      </h1>
+      <p
+        class="about-text"
+      >
+        At Northeastern, experience is our essence and ethos. It’s what you gain when you make the world your classroom, your laboratory, and your platform to create change or grow your enterprise. Throughout our university network, experience draws you into society and compels you to solve its complex challenges. It makes you agile and able to reinvent yourself. To find ways of doing things differently, and better. And to seize opportunities as they unfold—anytime, anywhere.
+      </p>
+    </div>
+  </section>
+</div>
+`;

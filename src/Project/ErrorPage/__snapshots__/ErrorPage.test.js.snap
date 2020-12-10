@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorPage tests renders correctly 1`] = `
+<div>
+  <div
+    class="errorPage"
+  >
+    <div
+      class="row text-center"
+    >
+      <div
+        class="col-md-12 align-self-center"
+      >
+        <h1
+          class="errorh1"
+        >
+          Sorry, Wrong Page
+        </h1>
+        <p>
+          Don't worry, just click the button below and we can find you!
+        </p>
+        <a
+          href="/"
+        >
+          <div>
+            Back to Homepage
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

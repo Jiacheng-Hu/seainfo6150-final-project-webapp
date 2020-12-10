@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inbox tests renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="container"
+    >
+      <ul
+        class="list-group no-point "
+      >
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/inbox1"
+              >
+                Recent Canvas Notification
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-11-21T14:30:00.000Z"
+              >
+                Saturday, November 21st 2020 at 2:30pm
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/inbox2"
+              >
+                Reminder: select next week’s scheduling preferences
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-09-01T00:28:00.000Z"
+              >
+                Tuesday, September 1st 2020 at 12:28am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/inbox3"
+              >
+                Important Updates from OGS about your I-20 End Date
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-10-23T06:53:00.000Z"
+              >
+                Friday, October 23rd 2020 at 6:53am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/inbox4"
+              >
+                Important Updates on the Student Email Transition
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-05-13T23:23:00.000Z"
+              >
+                Wednesday, May 13th 2020 at 11:23am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/inbox5"
+              >
+                Spring 2021 Registration begins November 13, 2020. Plan Your Class Schedule Now!
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-11-10T07:19:00.000Z"
+              >
+                Tuesday, November 11th 2020 at 7:19am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/inbox6"
+              >
+                New In-Person Assignments in the Dynamic Class Scheduler
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-11-15T03:27:00.000Z"
+              >
+                Sunday, November 15th 2020 at 3:27am
+              </time>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

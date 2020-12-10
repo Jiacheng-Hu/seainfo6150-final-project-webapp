@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact tests renders correctly 1`] = `
+<div>
+  <div
+    class="text-center"
+  >
+    <h2>
+      Contact Us
+    </h2>
+    <div
+      class="contactUs"
+    >
+      <div
+        class="labels"
+      >
+        Email Address:
+      </div>
+      <div
+        class="margin-left"
+      >
+        hu.jiac@neu.edu
+      </div>
+    </div>
+    <div
+      class="contactUs margin-top"
+    >
+      <div
+        class="labels"
+      >
+        Address:
+      </div>
+      <div
+        class="margin-left"
+      >
+        5346 15th Ave NE
+      </div>
+      <div>
+        Seattle, WA 98105
+      </div>
+    </div>
+    <div
+      class="contactUs margin-top"
+    >
+      <div
+        class="labels"
+      >
+        Phone Number:
+      </div>
+      <div
+        class="margin-left"
+      >
+        206-123-4321
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News2 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        What happens to workplace perks when no-one's in the office?
+        <br />
+         
+        <small>
+          by 
+          Sam Blum
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-16T13:19:10.000Z"
+      />
+    </header>
+    <div
+      class="news"
+    >
+      <img
+        class="news-image-item"
+        src="https://ychef.files.bbci.co.uk/1600x900/p08y16jh.webp"
+      />
+      <div>
+        <p>
+          Greg Domino remembers the majestic views of New York City from his former company’s office on the seventy-second floor of a Financial District skyscraper. The view was one of many perks that the sports-streaming service afforded to office workers like him. Domino, a 33-year-old PR professional, recalls “these gorgeous panoramic views of New York, ping-pong tables, kombucha, often times breakfast”. Employees' Instagram Stories were flooded with images of their office trappings.
+        </p>
+        <p>
+          But when the office temporarily closed eight months ago due to the pandemic, Domino wasn’t wistful about losing his daily dose of corporate culture, the view or free kombucha. He relished working on simpler terms from his house for the first few months. And since being made redundant by the company in September, he’s realised he doesn’t want the fancy office back at all. “As the father of two small kids with a wife who also works,” he says, “the flexibility of being home far outweighs [the office perks]”.
+        </p>
+        <p>
+          Over the past several years, more and more companies have been offering flashy amenities in the hope that it will help them compete for top talent. But with many corporate employees working from home since the start of the Covid-19 lockdowns, it’s unclear what purpose office spaces with ping-pong tables, espresso bars, meditation rooms and other enticing perks serve when there aren’t any employees in the building to use them.
+        </p>
+        <p>
+          The souped-up workspace has its roots in Silicon Valley, and the dawn of the US technology industry. In the first half of the 20th Century, fledgling technology firms filled their offices with luxuries as a means of luring promising recruits.
+        </p>
+        <p>
+          “[Hewlett-Packard], founded [in] 1939, was the first born-in-the-Valley company to incorporate these perks,” according to Margaret O'Mara, a history professor at the University of Washington. “[They] included not only outdoor patios and recreational areas, but also stock options in a growing company. This set-up got the ball rolling, and the industry’s next wave of firms laid the foundation for what we know as today’s start-up vibe. “HP set the tone for the many companies that followed,” says O’Mara, “who took it to the next level in the 70s and 80s with jogging paths and swimming pools, and in the 90s and 2000s with free food and climbing walls and ping-pong tables.”
+        </p>
+        <p>
+          In more recent years, Silicon Valley giants and smaller firms alike have outfitted their offices with gyms, cocktail lounges and even a music rehearsal space and an Oval Office replica. Beyond being a recruitment incentive, amenities like this are meant to foster a palpable sense of company culture that sets certain companies apart from the herd.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

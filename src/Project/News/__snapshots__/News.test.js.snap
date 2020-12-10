@@ -1,0 +1,166 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News tests renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail new-panel"
+          >
+            <div>
+              <img
+                alt="news1"
+                class="news-image"
+                src="https://ychef.files.bbci.co.uk/1600x900/p08y7xg0.webp"
+              />
+            </div>
+            <div
+              class="caption"
+            >
+              <a
+                class="news-link"
+                href="/news1"
+              >
+                How bike-friendly 'slow streets' are changing cities
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail new-panel"
+          >
+            <div>
+              <img
+                alt="news2"
+                class="news-image"
+                src="https://ychef.files.bbci.co.uk/1600x900/p08y16jh.webp"
+              />
+            </div>
+            <div
+              class="caption"
+            >
+              <a
+                class="news-link"
+                href="/news2"
+              >
+                What happens to workplace perks when no-one's in the office?
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail new-panel"
+          >
+            <div>
+              <img
+                alt="news3"
+                class="news-image"
+                src="https://ychef.files.bbci.co.uk/1600x900/p08yvvy7.webp"
+              />
+            </div>
+            <div
+              class="caption"
+            >
+              <a
+                class="news-link"
+                href="/news3"
+              >
+                How can employees also be social-media activists?
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail new-panel"
+          >
+            <div>
+              <img
+                alt="news4"
+                class="news-image"
+                src="https://ychef.files.bbci.co.uk/1600x900/p08zf427.webp"
+              />
+            </div>
+            <div
+              class="caption"
+            >
+              <a
+                class="news-link"
+                href="/news4"
+              >
+                The psychology behind ‘revenge bedtime procrastination’
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail new-panel"
+          >
+            <div>
+              <img
+                alt="news5"
+                class="news-image"
+                src="https://ychef.files.bbci.co.uk/1600x900/p08ynxjp.webp"
+              />
+            </div>
+            <div
+              class="caption"
+            >
+              <a
+                class="news-link"
+                href="/news5"
+              >
+                Coronavirus: Why dating feel so different now
+              </a>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail new-panel"
+          >
+            <div>
+              <img
+                alt="news6"
+                class="news-image"
+                src="https://ychef.files.bbci.co.uk/1600x900/p08ybylg.webp"
+              />
+            </div>
+            <div
+              class="caption"
+            >
+              <a
+                class="news-link"
+                href="/news6"
+              >
+                The corporate ideals driving ‘secret parenting’
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

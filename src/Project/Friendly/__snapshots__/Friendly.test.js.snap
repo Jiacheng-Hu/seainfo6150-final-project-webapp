@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Friendly tests renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <h1
+      class="text-center"
+    >
+      Cooperative Partner
+    </h1>
+    <div
+      class="row text-center"
+    >
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.github.com"
+        >
+          Github
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.google.com"
+        >
+          Google
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.stackoverflow.com"
+        >
+          Stack Overflow
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.w3schools.com"
+        >
+          W3Schools
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.stackexchange.com"
+        >
+          Stack Exchange
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.reddit.com"
+        >
+          Reddit
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.udemy.com"
+        >
+          Udemy
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="http://www.youtube.com"
+        >
+          YouTube
+        </a>
+      </div>
+      <div
+        class="col-xs-12 col-sm-6 col-md-4 col-lg-3"
+      >
+        <a
+          href="www.facebook.com"
+        >
+          Facebook
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+`;

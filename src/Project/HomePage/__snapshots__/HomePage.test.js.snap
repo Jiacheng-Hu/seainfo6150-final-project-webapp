@@ -1,0 +1,399 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HomePage tests renders correctly 1`] = `
+<div>
+  <div
+    class="homepage "
+  >
+    <section
+      class="home-about"
+    >
+      <div
+        class="home-about-title text-center"
+      >
+        <h1
+          class="home-about-h1"
+        >
+          ABOUT
+        </h1>
+        <div
+          class="home-about-line center-block"
+        />
+        <div
+          class="home-about-text"
+        >
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+        </div>
+      </div>
+      <div
+        class="container-fluid m-t-20"
+      >
+        <div
+          class="row"
+        >
+          <div
+            class="col-sm-1 col-md-3 m-p-0 word-text"
+          >
+            <div
+              class="word-text"
+            >
+              <h2
+                class="m-p-0 "
+              >
+                A WORD ABOUT US
+              </h2>
+            </div>
+            <div
+              class="cover-panel"
+            >
+              <div>
+                Praesent dignissim viverra est, sed bibendum ligula congue non. Sed ac nisl et felis gravida commodo? Suspendisse eget ullamcorper ipsum. Suspendisse diam amet.
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-sm-5 col-md-7 "
+          >
+            <div
+              class="thumbnail about-panel"
+            >
+              <div
+                class="about-image"
+              >
+                <img
+                  alt="bb3"
+                  class="about-image"
+                  src="bb3.jpg"
+                />
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-sm-1 col-md-2"
+          >
+            <div
+              class="num-panel text-center"
+            >
+              <h2
+                class="m-p-0 font-bold"
+              >
+                70000
+              </h2>
+              <div
+                class="home-about-line center-block"
+              />
+              <h4>
+                Students
+              </h4>
+            </div>
+            <div
+              class="num-panel text-center"
+            >
+              <h2
+                class="m-p-0 font-bold"
+              >
+                600
+              </h2>
+              <div
+                class="home-about-line center-block"
+              />
+              <h4>
+                Faculties
+              </h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section
+      class="home-graphic container-fluid m-t-35"
+    >
+      <div
+        class="row p-m-0"
+      >
+        <div
+          class="col-ms-6 col-md-3 p-m-0"
+        >
+          <img
+            alt="b1"
+            class="row-img"
+            src="b1.jpg"
+          />
+        </div>
+        <div
+          class="col-md-3 p-m-0"
+        >
+          <div
+            class="row-text"
+          >
+            <h3>
+              Library
+            </h3>
+            <h5
+              class="row-text-h5"
+            >
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry
+            </h5>
+            <div
+              class="row-text-text"
+            >
+              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-ms-6 col-md-3 p-m-0"
+        >
+          <img
+            alt="b2"
+            class="row-img"
+            src="b2.jpg"
+          />
+        </div>
+        <div
+          class="col-md-3 p-m-0"
+        >
+          <div
+            class="row-text"
+          >
+            <h3>
+              Computer Lab
+            </h3>
+            <h5
+              class="row-text-h5"
+            >
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry
+            </h5>
+            <div
+              class="row-text-text"
+            >
+              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="row p-m-0"
+      >
+        <div
+          class="col-md-3 p-m-0 "
+        >
+          <div
+            class="row-text"
+          >
+            <h3>
+              Conference Hall
+            </h3>
+            <h5
+              class="row-text-h5"
+            >
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry
+            </h5>
+            <div
+              class="row-text-text"
+            >
+              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-ms-6 col-md-3 p-m-0"
+        >
+          <img
+            alt="b3"
+            class="row-img"
+            src="b3.jpg"
+          />
+        </div>
+        <div
+          class="col-md-3 p-m-0"
+        >
+          <div
+            class="row-text"
+          >
+            <h3>
+              Playground
+            </h3>
+            <h5
+              class="row-text-h5"
+            >
+              Lorem Ipsum is simply dummy text of the printing and typesetting industry
+            </h5>
+            <div
+              class="row-text-text"
+            >
+              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-ms-6 col-md-3 p-m-0"
+        >
+          <img
+            alt="b4"
+            class="row-img"
+            src="b4.jpg"
+          />
+        </div>
+      </div>
+    </section>
+    <section
+      class="container m-t-35"
+    >
+      <div
+        class=" home-about home-about-title text-center"
+      >
+        <h1
+          class="home-about-h1"
+        >
+          GALLERY
+        </h1>
+        <div
+          class="home-about-line center-block"
+        />
+        <div
+          class="home-about-text"
+        >
+          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+        </div>
+      </div>
+      <div
+        class="row home-gallery"
+      >
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail home-panel"
+          >
+            <div
+              class="home-image"
+            >
+              <img
+                alt="03-01"
+                class="home-image"
+                src="03-01.jpg"
+              />
+            </div>
+            <div
+              class="gallery-text"
+            >
+              SCIENCE LAB
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail home-panel"
+          >
+            <div
+              class="home-image"
+            >
+              <img
+                alt="03-02"
+                class="home-image"
+                src="03-02.jpg"
+              />
+            </div>
+            <div
+              class="gallery-text"
+            >
+              INDOOR STADIUM
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail home-panel"
+          >
+            <div
+              class="home-image"
+            >
+              <img
+                alt="03-03"
+                class="home-image"
+                src="03-03.jpg"
+              />
+            </div>
+            <div
+              class="gallery-text"
+            >
+              TRANSPORTATION
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail home-panel"
+          >
+            <div
+              class="home-image"
+            >
+              <img
+                alt="03-04"
+                class="home-image"
+                src="03-04.jpg"
+              />
+            </div>
+            <div
+              class="gallery-text"
+            >
+              KIDS ROOM
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail home-panel"
+          >
+            <div
+              class="home-image"
+            >
+              <img
+                alt="03-05"
+                class="home-image"
+                src="03-05.jpg"
+              />
+            </div>
+            <div
+              class="gallery-text"
+            >
+              MEDITATION CLASSES
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-sm-6 col-md-4"
+        >
+          <div
+            class="thumbnail home-panel"
+          >
+            <div
+              class="home-image"
+            >
+              <img
+                alt="03-06"
+                class="home-image"
+                src="03-06.jpg"
+              />
+            </div>
+            <div
+              class="gallery-text"
+            >
+              KIDS PLAYGROUND
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>
+`;

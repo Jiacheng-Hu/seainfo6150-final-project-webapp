@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News3 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        How can employees also be social-media activists?
+        <br />
+         
+        <small>
+          by 
+          Zulekha Nathoo
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-27T17:10:14.000Z"
+      />
+    </header>
+    <div
+      class="news"
+    >
+      <img
+        class="news-image-item"
+        src="https://ychef.files.bbci.co.uk/1600x900/p08yvvy7.webp"
+      />
+      <div>
+        <p>
+          If, earlier this year, you’d asked Jarred Harewood about his social media habits, the 32-year-old Brooklyn-based software developer would have described himself as “very, very careful” about what he posted. To avoid alienating friends and colleagues, he didn’t talk politics on his feed, but instead kept it light with snapshots of food and travel. But he says being careful isn’t an option anymore, especially as a black American.
+        </p>
+        <p>
+          The deaths of George Floyd, Breonna Taylor, Daniel Prude and many other black people at the hands of police have recently made him “significantly more vocal and outspoken” on Instagram. In his stories, he posts about Black Lives Matter and issues at the centre of the recent US election, such as health care. He knows it’s a fine line to walk these days. “You could lose your job for these views and you may not have a lot of options out there,” says Harewood. “Each person has to weigh that themselves.”
+        </p>
+        <p>
+          As huge organisations such as Amazon, Netflix, the Pokémon Company, pharmaceutical giant Novartis and the US’s National Football League have publicly expressed support for social justice issues, an increasing number of people have been empowered to raise their voices in their own workplaces. And there’s lots to talk about: inequities at school and work as well as views about issues such as politics, public health, the environment, privilege and bigotry.
+        </p>
+        <p>
+          Of course, workers have been activists for years – but it used to be the case that if you were rallying over the weekend, your colleagues and boss could be none the wiser on Monday. Plus, the relationship people expect to have with their workplace has changed over the generations. While baby boomers were traditionally motivated by company loyalty and duty, younger workers place a high value on authenticity and are civic minded. They may be less willing to mute their beliefs.
+        </p>
+        <p>
+          So, now, with so much activism shifting to social media for so many, it’s not so easy to delineate activist from worker bee. And, unfortunately, experts say that being unfiltered could cost you valuable career currency. According to a growing area of research, social-media activism and gainful employment may be at odds.
+        </p>
+        <p>
+          What’s a worker who wants to raise their voice to do?
+        </p>
+        <p>
+          It's a tricky line to walk. In a study published earlier this year, researchers at Pennsylvania State University (Penn State) found that “opinionatedness” on social media negatively affected perceptions of job suitability among recruiters. In the experiment, hundreds of hiring managers were shown the same Facebook photo of a simulated job candidate. The subject stood in front of an American flag with one of two captions: either a benign comment referring to a “beautiful day”, or a more lengthy, opinionated version about politics and voting. It ended with, “My voice will be heard. Will yours?” While the photos and corresponding credentials were identical, evaluations were lower for the candidates with the political caption.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

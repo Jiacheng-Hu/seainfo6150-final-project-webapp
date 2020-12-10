@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inbox1 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        Recent Canvas Notification
+        <br />
+         
+        <small>
+          send by 
+          Instructure Canvas
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-21T14:30:00.000Z"
+      />
+    </header>
+    <div>
+      <div>
+        <p>
+          You're signed up to receive a weekly report of some notifications from your Canvas account. Below is the report for the week ending Nov 21:
+        </p>
+        <p>
+          <b>
+            Assignment Created - Lab 5, INFO6210 13524 Data Mgt and Database Design SEC 08 Fall 2020 [SEA-2-TR]
+          </b>
+        </p>
+        <p>
+          due: Nov 22 at 11:59pm
+        </p>
+        <p>
+          <b>
+            Assignment Created - Database Implementation, INFO6210 13524 Data Mgt and Database Design SEC 08 Fall 2020 [SEA-2-TR]
+          </b>
+        </p>
+        <p>
+          due: Nov 30 at 11:59
+        </p>
+        <p>
+          <b>
+            Assignment Due Date Changed: Final project usability test assignment, INFO6150 15367 Web Design/User Experien Engr SEC 03 Fall 2020 [SEA-2-TR]
+          </b>
+        </p>
+        <p>
+          due: Dec 3 at 2:59am
+        </p>
+        <p>
+          <b>
+            Assignment Due Date Changed: Final project website, INFO6150 15367 Web Design/User Experien Engr SEC 03 Fall 2020 [SEA-2-TR]
+          </b>
+        </p>
+        <p>
+          due: Dec 12 at 2:59am
+        </p>
+        <p>
+          <b>
+            Assignment Created - Images for the web assignment, INFO6150 15367 Web Design/User Experien Engr SEC 03 Fall 2020 [SEA-2-TR]
+          </b>
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

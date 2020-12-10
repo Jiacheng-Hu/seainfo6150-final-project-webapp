@@ -1,0 +1,96 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Grade tests renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="table-responsive container"
+    >
+      <table
+        class="table table-bordered  table-hover table-condensed"
+      >
+        <thead>
+          <tr>
+            <td>
+              Course ID
+            </td>
+            <td>
+              Course Name
+            </td>
+            <td>
+              Credit Hour
+            </td>
+            <td>
+              Associated Year
+            </td>
+            <td>
+              Associated Semester
+            </td>
+            <td>
+              Grade
+            </td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              170201
+            </td>
+            <td>
+              Program Structure and Algorithms
+            </td>
+            <td>
+              4
+            </td>
+            <td>
+              2017
+            </td>
+            <td>
+              Fall
+            </td>
+            <td>
+              <div>
+                total: 
+                A
+              </div>
+              <button
+                class="btn btn-default  btn-sm"
+              >
+                Show More
+              </button>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              170202
+            </td>
+            <td>
+              Database Principle
+            </td>
+            <td>
+              4
+            </td>
+            <td>
+              2017
+            </td>
+            <td>
+              Fall
+            </td>
+            <td>
+              <div>
+                total: 
+                A-
+              </div>
+              <button
+                class="btn btn-default  btn-sm"
+              >
+                Show More
+              </button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+`;

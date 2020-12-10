@@ -1,0 +1,160 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events tests renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="container"
+    >
+      <ul
+        class="list-group no-point "
+      >
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/events1"
+              >
+                ECE MS Thesis Defense: Sila Deniz Calisgan
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-11-30T09:30:00.000Z"
+              >
+                Mondey, November 30 at 9:30am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/events2"
+              >
+                Cancelled! Biology Colloquia Series: Prof. Mark Alkema
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-11-30T12:00:00.000Z"
+              >
+                Monday, November 30 at 12:00pm
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/events3"
+              >
+                Understanding the Importance of Standard and Non-Standard English Dialects
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-12-02T09:00:00.000Z"
+              >
+                Wednesday, December 2 at 9:00am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/events4"
+              >
+                American Flavors: A U.S. Food and Drink Guide
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-12-04T10:00:00.000Z"
+              >
+                Friday, December 4 at 10:00am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/events5"
+              >
+                Information Ethics Roundtable Speaker, Kevin Zollman
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2020-12-16T09:00:00.000Z"
+              >
+                Wednesday, December 16 at 9:00am
+              </time>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <a
+                href="/events6"
+              >
+                Virtual Bookclub on Racial Inequality Moderated by Professor Patricia Williams
+              </a>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <time
+                datetime="2021-02-04T19:00:00.000Z"
+              >
+                Thursday, February 4, 2021 at 7:00pm
+              </time>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

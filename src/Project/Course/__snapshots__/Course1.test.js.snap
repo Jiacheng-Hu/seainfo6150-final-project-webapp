@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course1 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="panel panel-info course-main"
+    >
+      <div
+        class="panel-heading"
+      >
+        Detail
+      </div>
+      <div
+        class="panel-body"
+      >
+        <div
+          class="labels"
+        >
+          Course Name: 
+          <span>
+            Application Modeling and Design
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          CRN: 
+          <span>
+            37385
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Subject: 
+          <span>
+            Information Systems Program
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Credit Hour: 
+          <span>
+            4
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Associated Term: 
+          <span>
+            Spring 2021 Semester
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Lecturer: 
+          <span>
+            Bugrara, Khaled
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Schedule: 
+          <span>
+            Mondey, 08:00 AM - 11:30 AM, 01/19/2021 - 05/01/2021
+          </span>
+        </div>
+        <div>
+          <p>
+            Practices social-technical software engineering methods and tools to solve real-world problems. Explores innovative design and programming techniques to build significant business applications quickly. Studies the process of systematically combining UX techniques, business processes, and complex data models to assemble applications that are user-friendly and meet business requirements. Employs the object-oriented paradigm, visual user interface design principles, and programming languages such as Java, as well as productivity tools, to put together complicated, powerful business applications with ease. Explores the art of how to systematically write software programs to solve any business problem, through practicing simple and smart ways of making software programming enjoyable.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

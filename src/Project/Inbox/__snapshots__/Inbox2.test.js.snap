@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inbox2 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        Reminder: select next week’s scheduling preferences
+        <br />
+         
+        <small>
+          send by 
+          The Student Hub
+        </small>
+      </h1>
+      <time
+        datetime="2020-09-01T00:28:00.000Z"
+      />
+    </header>
+    <div>
+      <div>
+        <p>
+          Hello!
+        </p>
+        <p>
+          The dynamic class scheduler is now live so that you may begin selecting your preferences for in-person or remote classes, for eligible classes the week of September 7. You may log in to the Student Hub and submit next week’s preferences no later than this Wednesday at 9 p.m. ET.
+        </p>
+        <p>
+          Your finalized assignments for next week will be available in the Hub, under Classes, beginning on Thursday.
+        </p>
+        <p>
+          A video demo and more information about dynamic scheduling is available on Northeastern’s Hybrid NUflex website. For additional questions and support for dynamic scheduling, the IT Service Desk is ready to help 24/7, all year long. Please reach out via the Tech Service Portal, at 617.373.HELP [4357], or at help@northeastern.edu.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

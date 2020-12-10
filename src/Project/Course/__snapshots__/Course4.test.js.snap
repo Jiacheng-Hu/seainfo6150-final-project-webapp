@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course4 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="panel panel-info course-main"
+    >
+      <div
+        class="panel-heading"
+      >
+        Detail
+      </div>
+      <div
+        class="panel-body"
+      >
+        <div
+          class="labels"
+        >
+          Course Name: 
+          <span>
+            Program Structure and Algorithms
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          CRN: 
+          <span>
+            32885
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Subject: 
+          <span>
+            Information Systems Program
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Credit Hour: 
+          <span>
+            4
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Associated Term: 
+          <span>
+            Spring 2021 Semester
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Lecturer: 
+          <span>
+            Ashish, Ashish
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Schedule: 
+          <span>
+            Thursday, 06:30 PM - 09:30 PM, 01/19/2021 - 05/01/2021
+          </span>
+        </div>
+        <div>
+          <p>
+            Presents data structures and related algorithms, beginning with a brief review of dynamic memory allocation. Discusses the fundamental data structures in detail, including the abstract representation, supporting algorithms, and implementation methods. Focuses on understanding the application of the abstract data structure and the circumstances that affect implementation decisions. Covers lists, stacks, queues, trees, hash tables, and graphs. Covers recursion and searching and sorting algorithms in detail. Emphasizes data abstraction and encapsulation in code design. Explores external storage structures, time permitting.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News5 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        Coronavirus: Why dating feel so different now
+        <br />
+         
+        <small>
+          by 
+          David Cox
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-25T15:35:30.000Z"
+      />
+    </header>
+    <div
+      class="news"
+    >
+      <img
+        class="news-image-item"
+        src="https://ychef.files.bbci.co.uk/1600x900/p08ynxjp.webp"
+      />
+      <div>
+        <p>
+          Emily, a 29-year-old surveyor from London, says she’s always been something of an introvert. She’d dabbled in dating, but when the UK’s first lockdown restrictions ended in July, she was reluctant to begin dating in person again. “I’d chatted with some people on dating apps, but I wasn’t in a rush to meet up with anyone,” she says. “Everything about the pandemic had made me quite anxious.”
+        </p>
+        <p>
+          In early August, she agreed to meet someone from a dating app for a drink, her first date since March. “We’d been exchanging messages for a few months, and he was really nice,” says Emily, who did not want her full name used.
+        </p>
+        <p>
+          But when they did finally meet, she says, “I just felt extremely hesitant”. “In the back of my mind, I still wasn’t sure I was ready to date again. Later that day I sent him a text explaining how I felt, and he replied saying he had sensed that from my body language.”
+        </p>
+        <p>
+          Emily isn’t alone in feeling like dating amid Covid-19 is fraught. In fact, her behaviour chimes with a 2017 study in which a group of psychologists at Montréal’s McGill University looked into whether people’s dating behaviour would change if they were worried about the risk of infectious disease. Would people shy away from chasing romance if they were subconsciously aware of a potential health risk, or would the natural human desire to find a partner prevail?
+        </p>
+        <p>
+          The researchers had little idea that Covid-19 was around the corner. Now, their work, combined with other psychological studies conducted during the pandemic, offers a fascinating and highly relevant window into how the crisis appears to be affecting our dating behaviour. And, it points to ways in which we can date more effectively in the future as well as form deeper and stronger relationship bonds.
+        </p>
+        <p>
+          The McGill experiment suggests Emily’s avoidance might be down to an element of our psyche known as the “behavioural immune system”.
+        </p>
+        <p>
+          Pathogens have presented a threat to our survival throughout human history. So, evolutionary psychologists believe humans have evolved a set of subconscious responses that manifest when we are particularly concerned about the presence of an infectious disease. These responses lead us to engage in behavioural patterns that reduce the likelihood of getting infected, such as being less open and making reduced eye contact when in social situations.
+        </p>
+        <p>
+          The McGill team examined how this played out in a dating context. They took several hundred heterosexual male and female singletons, aged 18 to 35, and had them complete a known psychometric test known as PVDS, or the perceived vulnerability to disease scale. This consists of a 15-item questionnaire, asking participants to rate from 1 (strongly disagree) to 7 (strongly agree) their feelings on questions such as, ‘It really bothers me when people sneeze without covering their mouths’, or ‘My immune system protects me from most illnesses that other people get’.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

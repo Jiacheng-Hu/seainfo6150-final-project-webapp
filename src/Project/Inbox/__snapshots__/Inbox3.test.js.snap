@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inbox3 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        Important Updates from OGS about your I-20 End Date
+        <br />
+         
+        <small>
+          send by 
+          Office of Global Services
+        </small>
+      </h1>
+      <time
+        datetime="2020-10-23T06:53:00.000Z"
+      />
+    </header>
+    <div>
+      <div>
+        <p>
+          Dear student,
+        </p>
+        <p>
+          According to OGS records, your I-20 will expire at the end of the Spring/Winter 2021 term.  As you should have seen in previous communications from Northeastern, the Spring/Winter 2021 academic calendar has been adjusted to promote the health and wellbeing of the Northeastern community. Due to these adjustments, your I-20 end date will be updated in SEVIS to match the academic calendar. A new I-20 will not be issued and is not required.
+        </p>
+        <p>
+          Please refer to the University Academic Calendar determine your new program end date. Your program end date can be found on page 1 of your I-20 in the “Program of Study” section.
+        </p>
+        <p>
+          IMPORTANT: If your I-20 is expiring at the end of the Spring/Winter 2021 term, but you are NOT completing your program, you are required to submit a program extension request. Failure to submit a program extension request prior to your current program end date will result in the automatic completion of your SEVIS record and failure to maintain status and/or loss of benefits.
+        </p>
+        <p>
+          If you will be applying for Post-Completion OPT, please apply based on your new I-20 program end date. When your Post-OPT Recommendation I-20 is printed, this I-20 will reflect your updated program end date. More information about how and when to apply for Post-OPT can be found here.
+        </p>
+        <p>
+          If you have additional concerns, please respond to this email, or call OGS at 617-373-2310.
+        </p>
+        <p>
+          Sincerely,
+        </p>
+        <p>
+          Office of Global Services
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

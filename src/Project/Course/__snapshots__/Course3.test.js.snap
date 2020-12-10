@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course3 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="panel panel-info course-main"
+    >
+      <div
+        class="panel-heading"
+      >
+        Detail
+      </div>
+      <div
+        class="panel-body"
+      >
+        <div
+          class="labels"
+        >
+          Course Name: 
+          <span>
+            Web Design and User Experience Engineering
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          CRN: 
+          <span>
+            34292
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Subject: 
+          <span>
+            Information Systems Program
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Credit Hour: 
+          <span>
+            4
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Associated Term: 
+          <span>
+            Spring 2021 Semester
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Lecturer: 
+          <span>
+            Bingham, April
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Schedule: 
+          <span>
+            Wednesday, 02:30 PM - 05:30 PM, 01/19/2021 - 05/01/2021
+          </span>
+        </div>
+        <div>
+          <p>
+            Exposes students to both conceptual and technical aspects of Web design. User experience design is the discipline of creating a useful and usable website or application that is easily navigated and meets the needs of both the site owner and its users. Covers Web standards and best practices. Studies the fundamental concepts, techniques, practices, work flows, and tools associated with the practice of user-experience design in Web interfaces. Offers students an opportunity to learn the core principles of information architecture, usability, marketing hierarchy, and user experience for contextual, value-driven websites. Additional areas of focus include typography, color theory and composition, responsive design, CSS3 concepts, basic scripting, and JavaScript libraries to create functional, effective, and visually appealing websites.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

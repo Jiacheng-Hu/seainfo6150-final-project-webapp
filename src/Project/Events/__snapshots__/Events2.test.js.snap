@@ -1,0 +1,151 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events2 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <article
+        class="col-xs-12 col-sm-8"
+      >
+        <h1>
+          Cancelled! Biology Colloquia Series: Prof. Mark Alkema
+        </h1>
+        <div>
+          <p>
+            Prof. Mark Alkema, University of Massachusetts Medical School
+          </p>
+          <p>
+            <a
+              href="#"
+            >
+              www.umassmed.edu/AlkemaLab
+            </a>
+          </p>
+          <p>
+            presents: “Migraines, microbiomes, and metabolism”
+          </p>
+          <p>
+            Dial-In Information
+          </p>
+          <p>
+            Zoom Link:
+            <br />
+            <a
+              href="#"
+            >
+              https://northeastern.zoom.us/j/92267517205?pwd=WlcrZlhCL2NLL2NiRXhVaFFvTW9Xdz09
+            </a>
+            <br />
+            Meet ID: 922 6751 7205
+          </p>
+          <p>
+            Passcode: 2c967n
+          </p>
+        </div>
+        <time
+          datetime="2020-11-30T12:00:00.000Z"
+        >
+          Monday, November 30 at 12:00pm
+        </time>
+        <div>
+          Departments
+        </div>
+        <div>
+          COS, Behavioral Neuroscience, Biochemistry, Biology, Biotechnology, Chemistry and Chemical Biology, COE, Chemical Engineering, Bioengineering
+        </div>
+      </article>
+      <div
+        class="col-xs-0 col-sm-3 col-sm-offset-1"
+      >
+        <div
+          class="sidebar-module"
+        >
+          <h4
+            class="labels"
+          >
+            More Events
+          </h4>
+          <ul
+            class="list-inline"
+          >
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events1"
+              >
+                ECE MS Thesis Defense: Sila Deniz Calisgan
+              </a>
+              <time
+                datetime="2020-11-30T09:30:00.000Z"
+              >
+                Mondey, November 30 at 9:30am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events3"
+              >
+                Understanding the Importance of Standard and Non-Standard English Dialects
+              </a>
+              <time
+                datetime="2020-12-02T09:00:00.000Z"
+              >
+                Wednesday, December 2 at 9:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events4"
+              >
+                American Flavors: A U.S. Food and Drink Guide
+              </a>
+              <time
+                datetime="2020-12-04T10:00:00.000Z"
+              >
+                Friday, December 4 at 10:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events5"
+              >
+                Information Ethics Roundtable Speaker, Kevin Zollman
+              </a>
+              <time
+                datetime="2020-12-16T09:00:00.000Z"
+              >
+                Wednesday, December 16 at 9:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events6"
+              >
+                Virtual Bookclub on Racial Inequality Moderated by Professor Patricia Williams
+              </a>
+              <time
+                datetime="2021-02-04T19:00:00.000Z"
+              >
+                Thursday, February 4, 2021 at 7:00pm
+              </time>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

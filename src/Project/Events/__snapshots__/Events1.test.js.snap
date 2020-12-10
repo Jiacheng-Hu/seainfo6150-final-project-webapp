@@ -1,0 +1,124 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events1 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <article
+        class="col-xs-12 col-sm-8"
+      >
+        <h1>
+          ECE MS Thesis Defense: Sila Deniz Calisgan
+        </h1>
+        <div>
+          <p>
+            MS Thesis Defense: MEMS Infrared Resonant Detectors With Near-Zero Power Readout For Miniaturized Low Power Systems Sila Deniz Calisgan Location: Online Abstract: The demand for low-cost and low-power microsystems for spectrally-selective IR sensing has been rising with the proliferation of Internet of Things (IoT) for applications such as security surveillance and natural disaster monitoring.
+          </p>
+        </div>
+        <time
+          datetime="2020-11-30T09:30:00.000Z"
+        >
+          Mondey, November 30 at 9:30am
+        </time>
+        <div>
+          Departments
+        </div>
+        <div>
+          COE
+        </div>
+      </article>
+      <div
+        class="col-xs-0 col-sm-3 col-sm-offset-1"
+      >
+        <div
+          class="sidebar-module"
+        >
+          <h4
+            class="labels"
+          >
+            More Events
+          </h4>
+          <ul
+            class="list-inline"
+          >
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events2"
+              >
+                Cancelled! Biology Colloquia Series: Prof. Mark Alkema
+              </a>
+              <time
+                datetime="2020-11-30T12:00:00.000Z"
+              >
+                Monday, November 30 at 12:00pm
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events3"
+              >
+                Understanding the Importance of Standard and Non-Standard English Dialects
+              </a>
+              <time
+                datetime="2020-12-02T09:00:00.000Z"
+              >
+                Wednesday, December 2 at 9:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events4"
+              >
+                American Flavors: A U.S. Food and Drink Guide
+              </a>
+              <time
+                datetime="2020-12-04T10:00:00.000Z"
+              >
+                Friday, December 4 at 10:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events5"
+              >
+                Information Ethics Roundtable Speaker, Kevin Zollman
+              </a>
+              <time
+                datetime="2020-12-16T09:00:00.000Z"
+              >
+                Wednesday, December 16 at 9:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events6"
+              >
+                Virtual Bookclub on Racial Inequality Moderated by Professor Patricia Williams
+              </a>
+              <time
+                datetime="2021-02-04T19:00:00.000Z"
+              >
+                Thursday, February 4, 2021 at 7:00pm
+              </time>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,130 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events6 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="row"
+    >
+      <article
+        class="col-xs-12 col-sm-8"
+      >
+        <h1>
+          Virtual Bookclub on Racial Inequality Moderated by Professor Patricia Williams
+        </h1>
+        <div>
+          <p>
+            Join the Alumni/ae Association Board of Directors Community Building Committee and the Office of Alumni/ae Relations and Development for a Virtual Book Club on February 4, 2021, from 7 to 8 PM ET. We will read Caste: The Origins of Our Discontents, by Isabel Wilkerson.  The New York Times describes it as, “An instant American classic and almost certainly the keynote nonfiction book of the American century thus far.”
+          </p>
+          <p>
+            The discussion will be led by Professor Patricia Williams, one of the most provocative intellectuals in American law and a pioneer of both the law and literature and critical race theory movements in American legal theory. Professor Williams has published widely in the areas of race, gender, literature and law. Her books, including The Alchemy of Race and Rights (Harvard University Press, 1991), illustrate some of America’s most complex societal problems and challenge our ideas about socio-legal constructs of race and gender.
+          </p>
+          <p>
+            We hope many graduates from around the globe will join us over Zoom on February 4, 2021!
+          </p>
+        </div>
+        <time
+          datetime="2021-02-04T19:00:00.000Z"
+        >
+          Thursday, February 4, 2021 at 7:00pm
+        </time>
+        <div>
+          Departments
+        </div>
+        <div>
+          School of Law, Alumni/ae
+        </div>
+      </article>
+      <div
+        class="col-xs-0 col-sm-3 col-sm-offset-1"
+      >
+        <div
+          class="sidebar-module"
+        >
+          <h4
+            class="labels"
+          >
+            More Events
+          </h4>
+          <ul
+            class="list-inline"
+          >
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events1"
+              >
+                ECE MS Thesis Defense: Sila Deniz Calisgan
+              </a>
+              <time
+                datetime="2020-11-30T09:30:00.000Z"
+              >
+                Mondey, November 30 at 9:30am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events2"
+              >
+                Cancelled! Biology Colloquia Series: Prof. Mark Alkema
+              </a>
+              <time
+                datetime="2020-11-30T12:00:00.000Z"
+              >
+                Monday, November 30 at 12:00pm
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events3"
+              >
+                Understanding the Importance of Standard and Non-Standard English Dialects
+              </a>
+              <time
+                datetime="2020-12-02T09:00:00.000Z"
+              >
+                Wednesday, December 2 at 9:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events4"
+              >
+                American Flavors: A U.S. Food and Drink Guide
+              </a>
+              <time
+                datetime="2020-12-04T10:00:00.000Z"
+              >
+                Friday, December 4 at 10:00am
+              </time>
+            </li>
+            <li
+              class="margin-top"
+            >
+              <a
+                href="/events5"
+              >
+                Information Ethics Roundtable Speaker, Kevin Zollman
+              </a>
+              <time
+                datetime="2020-12-16T09:00:00.000Z"
+              >
+                Wednesday, December 16 at 9:00am
+              </time>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

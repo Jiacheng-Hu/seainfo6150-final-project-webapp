@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GradeItem tests renders correctly 1`] = `
+<div>
+  <button
+    class="btn btn-default  btn-sm"
+  >
+    Show More
+  </button>
+</div>
+`;

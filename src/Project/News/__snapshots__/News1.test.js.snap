@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News1 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        How bike-friendly 'slow streets' are changing cities
+        <br />
+         
+        <small>
+          by 
+          Mark Johanson
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-12T15:12:24.000Z"
+      />
+    </header>
+    <div
+      class="news"
+    >
+      <img
+        class="news-image-item"
+        src="https://ychef.files.bbci.co.uk/1600x900/p08y7xg0.webp"
+      />
+      <div>
+        <p>
+          Moving around Bogotá can be a bit of a Jekyll-or-Hyde experience. On one hand, the city is infamous for having the world’s worst traffic. Yet, on the other, its cycling infrastructure is considered an exemplary model of sustainable urban mobility, according to the Copenhagenize Index, which ranks bike-friendly cities. The Colombian capital even spawned a now-international movement in the 1970s called Ciclovía, which sees 1.5 million people pedal across 128km (80 miles) of car-free streets each Sunday morning.
+        </p>
+        <p>
+          So, when the pandemic reached its shores in mid-March, Bogotá Mayor Claudia López, an avid cyclist herself, enacted one of the world’s first plans to encourage bike travel, using traffic cones to create 76km of temporary lanes.
+        </p>
+        <p>
+          “Everyone started using a bicycle, and they already knew how to get around on one because we have this bike culture thanks to the Ciclovía,” says Carlos Pardo, a local cycling advocate and senior advisor at the New Urban Mobility Alliance. Pardo got involved at the outset of the pandemic by partnering with a local bikeshare company to provide 400 free e-bikes to health workers. Now, he’s busy persuading the public that the government’s new bike lanes should become permanent fixtures.
+        </p>
+        <p>
+          “Some drivers say, ‘you took away our lane’, but we’re saying, we took one car lane and made a two-lane bidirectional bike lane,” he explains. “So, you’re duplicating the effectiveness of the space, and moving more people per hour, per direction.” Thanks to Pardo’s advocacy as well as quick actions by Bogotá’s mobility secretariat, the extent of the new bike lanes is now 84km, bringing the extensive cycle network to 634km in total. The government says at least 65km of the new lanes will become permanent.
+        </p>
+        <p>
+          Biking has enjoyed a renaissance around the world as urbanites shun public transport for the relative safety of a two-wheeled commute. Now, many advocates like Pardo are working with local governments in the hope of turning these pandemic-response measures into lasting changes – ones that are more plausible now than ever after lockdowns provided an unprecedented opportunity to fast-track infrastructure trials. The results of these urban planning experiments could not only radically alter the way we commute across global cities, but also make them more resilient to future shocks.
+        </p>
+        <p>
+          Tabitha Combs, a lecturer at the University of North Carolina at Chapel Hill, has been crowdsourcing data on local actions affecting walking and cycling during the pandemic. She’s identified at least 365 global cities that have allocated new street space for these activities since data-gathering began on 24 March.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

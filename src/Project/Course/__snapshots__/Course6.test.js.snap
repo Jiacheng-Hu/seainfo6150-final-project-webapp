@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course6 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="panel panel-info course-main"
+    >
+      <div
+        class="panel-heading"
+      >
+        Detail
+      </div>
+      <div
+        class="panel-body"
+      >
+        <div
+          class="labels"
+        >
+          Course Name: 
+          <span>
+            Smartphones-Based Web Development
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          CRN: 
+          <span>
+            33264
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Subject: 
+          <span>
+            Information Systems Program
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Credit Hour: 
+          <span>
+            4
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Associated Term: 
+          <span>
+            Spring 2021 Semester
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Lecturer: 
+          <span>
+            Ashish, Ashish
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Schedule: 
+          <span>
+            Tuesday, 06:30 PM - 09:30 PM, 01/19/2021 - 05/01/2021
+          </span>
+        </div>
+        <div>
+          <p>
+            Covers application development for mobile devices using advanced development platforms. Focuses on how to write mobile applications using cross-platform development tools and processes. Topics include user interfaces, the software life cycle, persistent storage, networking using HTTP and other REST interfaces, and mobile/handheld data applications. Requires a final project.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

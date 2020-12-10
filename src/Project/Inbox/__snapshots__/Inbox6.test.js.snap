@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Inbox6 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        New In-Person Assignments in the Dynamic Class Scheduler
+        <br />
+         
+        <small>
+          send by 
+          The Student Hub
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-15T03:27:00.000Z"
+      />
+    </header>
+    <div>
+      <div>
+        <p>
+          Hello!
+        </p>
+        <p>
+          Starting this week, an update to the dynamic class scheduler will improve access to safe, in-person class participation for those who want it. The change will be effective with assignments for the week of November 16.
+        </p>
+        <p>
+          Each Sunday prior to the week of class, any students who are not compliant with their required COVID-19 testing cadence are removed from in-person assignments. Beginning tomorrow, the dynamic scheduler will fill those seats emptied due to testing non-compliance.
+        </p>
+        <p>
+          If you indicate an in-person preference but receive a remote assignment on Thursday, please check back each Sunday evening to see if your assignment has been updated to in-person.
+        </p>
+        <p>
+          The university remains committed to providing as many in-person learning opportunities as possible, whenever it is safe to do so. If you have any questions, please visit the Dynamic Scheduling page.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

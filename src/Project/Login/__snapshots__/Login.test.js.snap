@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login tests renders correctly 1`] = `
+<div>
+  <div>
+    <form>
+      <div
+        class="signin"
+      >
+        <h2
+          class="text-center"
+        >
+          Please sign in
+        </h2>
+        <div
+          class="margin-top"
+        >
+          Username
+        </div>
+        <input
+          class="form-control"
+          id="username"
+          name="username"
+          required=""
+          type="text"
+        />
+        <div
+          class="margin-top"
+        >
+          Password
+        </div>
+        <input
+          class="form-control"
+          id="password"
+          name="password"
+          required=""
+          type="password"
+        />
+        <br />
+        <input
+          class="btn btn-lg btn-primary btn-block margin-top"
+          type="submit"
+          value="submit"
+        />
+        <input
+          class="btn btn-lg btn-default btn-block margin-top"
+          type="reset"
+          value="reset"
+        />
+      </div>
+    </form>
+    <button
+      class="signBtn"
+    >
+      Sign in
+    </button>
+    <button
+      class="signBtn"
+    >
+      Sign up
+    </button>
+  </div>
+</div>
+`;

@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course2 test renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="panel panel-info course-main"
+    >
+      <div
+        class="panel-heading"
+      >
+        Detail
+      </div>
+      <div
+        class="panel-body"
+      >
+        <div
+          class="labels"
+        >
+          Course Name: 
+          <span>
+            Data Science Engineering with Python
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          CRN: 
+          <span>
+            37390
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Subject: 
+          <span>
+            Information Systems Program
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Credit Hour: 
+          <span>
+            4
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Associated Term: 
+          <span>
+            Spring 2021 Semester
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Lecturer: 
+          <span>
+            Hariharan, Ramkumar
+          </span>
+        </div>
+        <div
+          class="labels"
+        >
+          Schedule: 
+          <span>
+            Mondey, 10:00 AM - 01:00 PM, 01/19/2021 - 05/01/2021
+          </span>
+        </div>
+        <div>
+          <p>
+            Studies the Python programming language with data science as the application domain. Offers students an opportunity to learn how to perform complex numerical calculations, fixed data types, space efficiency, and vector manipulations. Covers tools and techniques for manipulating tables, spreadsheets, and group and pivot tables involving extremely large data sets. Covers large multidimensional arrays and matrices and the high-level mathematical functions to operate on these arrays. Studies how to use Python to manipulate the classic math and science algorithms. Analyzes helper functions such as linear and nonlinear regression, integration, Fourier transformations, numerical optimization, etc. Includes higher-level classes for manipulating and visualizing data. Applies tools and techniques to classical data science using cases such as time series forecasting, social network analysis, text analytics, and big data processing.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

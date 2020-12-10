@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Course tests renders correctly 1`] = `
+<div>
+  <div>
+    <div
+      class="container"
+    >
+      <ul
+        class="list-group no-point container"
+      >
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <div>
+                Application Modeling and Design
+              </div>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <div>
+                Information Systems Program
+              </div>
+              <div>
+                Bugrara, Khaled
+              </div>
+              <a
+                href="/course1"
+              >
+                <div>
+                  Show Details
+                </div>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <div>
+                Data Science Engineering with Python
+              </div>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <div>
+                Information Systems Program
+              </div>
+              <div>
+                Hariharan, Ramkumar
+              </div>
+              <a
+                href="/course2"
+              >
+                <div>
+                  Show Details
+                </div>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <div>
+                Web Design and User Experience Engineering
+              </div>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <div>
+                Information Systems Program
+              </div>
+              <div>
+                Bingham, April
+              </div>
+              <a
+                href="/course3"
+              >
+                <div>
+                  Show Details
+                </div>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <div>
+                Program Structure and Algorithms
+              </div>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <div>
+                Information Systems Program
+              </div>
+              <div>
+                Ashish, Ashish
+              </div>
+              <a
+                href="/course4"
+              >
+                <div>
+                  Show Details
+                </div>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <div>
+                Data management and Database Design
+              </div>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <div>
+                Information Systems Program
+              </div>
+              <div>
+                Wang, Wuping
+              </div>
+              <a
+                href="/course5"
+              >
+                <div>
+                  Show Details
+                </div>
+              </a>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div
+            class="panel panel-info "
+          >
+            <div
+              class="panel-heading"
+            >
+              <div>
+                Smartphones-Based Web Development
+              </div>
+            </div>
+            <div
+              class="panel-body"
+            >
+              <div>
+                Information Systems Program
+              </div>
+              <div>
+                Ashish, Ashish
+              </div>
+              <a
+                href="/course6"
+              >
+                <div>
+                  Show Details
+                </div>
+              </a>
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+`;

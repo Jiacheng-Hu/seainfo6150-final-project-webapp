@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`News6 tests renders correctly 1`] = `
+<div>
+  <article
+    class="container"
+  >
+    <header>
+      <h1>
+        The corporate ideals driving ‘secret parenting’
+        <br />
+         
+        <small>
+          by 
+          Melissa Hogenboom
+        </small>
+      </h1>
+      <time
+        datetime="2020-11-23T13:50:15.000Z"
+      />
+    </header>
+    <div
+      class="news"
+    >
+      <img
+        class="news-image-item"
+        src="https://ychef.files.bbci.co.uk/1600x900/p08ybylg.webp"
+      />
+      <div>
+        <p>
+          Six months after my daughter was born, I was back in the office, bleary eyed but eager to prove myself in a new position. A few weeks later, when I needed a few days off because of chickenpox at her day-care, I dreaded having to tell my team. Despite supportive colleagues, I felt intense pressure to act like nothing had changed.
+        </p>
+        <p>
+          Before, the job had always come first, something that had been key to getting ahead. Back at work as a mother, I was stressed because I couldn’t control my time, worried I now seemed more unreliable and anxious about the next time this might happen. I barely mentioned my daughter in the office; I would never have included an anecdote like this in my writing at that time.
+        </p>
+        <p>
+          Three years on, I realise it’s important to do so because this stress isn’t unique to me. Many people face the same pressure, because living up to workplace ideals is often not compatible with caring responsibilities, children or otherwise. This harms caregivers, who are statistically more likely to be women. Many of us respond by downplaying these responsibilities or convincing colleagues we can do just as much overtime as before, because we know that if we don’t, we risk falling victim to the numerous biases that hold mothers back.
+        </p>
+        <p>
+          Welcome to the world of “secret parenting”. Economist Emily Oster coined this relatable phrase in a 2019 article in which she urged parents to “come clean” about the nature of their lives. And while the pandemic – and our abrupt shift to home working – has forced many of our hands, it’s not clear whether unveiling the responsibilities we have outside the office will bring meaningful change.
+        </p>
+        <p>
+          Secret parenting can start as early as pregnancy. Research shows that some women hide their pregnancies, especially in roles in which they feel they have to compete with men and don’t want to reveal anything that might “get in the way” of work. Working women often feel the need to go “above and beyond” normal standards during pregnancy, another study showed, as well as hide any sickness for fear of appearing unreliable.
+        </p>
+        <p>
+          It continues after birth. Women report wanting to hide their breastfeeding at work because it is taboo, and doing so is such an obvious gendered difference that highlights their new status as mothers. There are plenty of anecdotes about women feeling forced to prove they can still work overtime and offering to work even when their children are ill as well as those who purposely don’t share photos of their children or talk about them at all.
+        </p>
+      </div>
+    </div>
+  </article>
+</div>
+`;

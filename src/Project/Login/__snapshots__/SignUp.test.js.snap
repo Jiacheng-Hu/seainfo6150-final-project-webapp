@@ -1,0 +1,133 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignUp tests renders correctly 1`] = `
+<div>
+  <div
+    class="signup"
+  >
+    <p>
+      Please fill in this form to sign up, fields with * is required
+    </p>
+    <div>
+      *Username
+    </div>
+    <input
+      class="form-control"
+      id="username"
+      name="username"
+      required=""
+      type="text"
+    />
+    <div>
+      *First Name
+    </div>
+    <input
+      class="form-control"
+      required=""
+      type="text"
+    />
+    <div>
+      *Last Name
+    </div>
+    <input
+      class="form-control"
+      required=""
+      type="text"
+    />
+    <div>
+      *ID Number
+    </div>
+    <input
+      class="form-control"
+      required=""
+      type="text"
+    />
+    <div>
+      *Email
+    </div>
+    <input
+      class="form-control"
+      pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\\\\.[a-z]{2,}$"
+      required=""
+      title="Must follow the valid email format"
+      type="text"
+    />
+    <div>
+      Degree
+    </div>
+    <input
+      name="degree"
+      type="radio"
+    />
+    Bachelor
+    <input
+      name="degree"
+      type="radio"
+    />
+    Master
+    <input
+      name="degree"
+      type="radio"
+    />
+    Doctor
+    <div>
+      Major
+    </div>
+    <select
+      class="form-control"
+    >
+      <option
+        value="is"
+      >
+        Information Systems
+      </option>
+      <option
+        value="cs"
+      >
+        Computer Science
+      </option>
+      <option
+        value="data"
+      >
+        Data Analytics Engineering
+      </option>
+      <option
+        value="ba"
+      >
+        Business Analytics
+      </option>
+    </select>
+    <div>
+      Password
+    </div>
+    <input
+      class="form-control"
+      id="password"
+      name="password"
+      required=""
+      type="password"
+    />
+    <div>
+      Re-enter Password
+    </div>
+    <input
+      class="form-control"
+      id="password"
+      name="password"
+      required=""
+      type="password"
+    />
+    <br />
+    <input
+      class="btn btn-lg btn-primary btn-block margin-top"
+      type="submit"
+      value="Submit"
+    />
+    <input
+      class="btn btn-lg btn-default btn-block margin-top"
+      type="reset"
+      value="Reset"
+    />
+  </div>
+</div>
+`;
